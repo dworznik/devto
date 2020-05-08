@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     component: HeroBlock
     type: heroblock
-    title: Blockchain and FP
+    title: ...
     image: >-
       https://res.cloudinary.com/practicaldev/image/fetch/s--TXRHTjC7--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/381408/2ea0b936-4599-418e-9fb2-5faf7d876cbb.jpg
   - title: Text
